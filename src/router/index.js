@@ -28,7 +28,7 @@ const routes = [
   },
 
   {
-    path: '/warehouses/new',
+    path: '/new_warehouse',
     name: 'new',
     component: WarehouseNew
   }
